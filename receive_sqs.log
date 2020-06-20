@@ -1,0 +1,534 @@
+{'ResponseMetadata': {'RequestId': 'f1e37c49-7bd8-5e32-bf1d-2b2ea0ff514c', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'f1e37c49-7bd8-5e32-bf1d-2b2ea0ff514c', 'date': 'Sat, 20 Jun 2020 09:37:45 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '85bc5876-17c5-532f-9032-0f11cce95652', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '85bc5876-17c5-532f-9032-0f11cce95652', 'date': 'Sat, 20 Jun 2020 09:37:50 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '82297e3b-0cdf-5539-b20c-295cd7eed044', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '82297e3b-0cdf-5539-b20c-295cd7eed044', 'date': 'Sat, 20 Jun 2020 09:37:55 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '3216a98c-64a9-508d-bfe4-feebbf9fd331', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '3216a98c-64a9-508d-bfe4-feebbf9fd331', 'date': 'Sat, 20 Jun 2020 09:38:00 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9496d4a6-9f18-5863-96bf-83c144235918', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9496d4a6-9f18-5863-96bf-83c144235918', 'date': 'Sat, 20 Jun 2020 09:38:05 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '76f52716-ab14-55bb-9e22-70717054ade3', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '76f52716-ab14-55bb-9e22-70717054ade3', 'date': 'Sat, 20 Jun 2020 09:38:10 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ee0b8320-476f-5b63-8b8d-d4479c2a2bb5', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ee0b8320-476f-5b63-8b8d-d4479c2a2bb5', 'date': 'Sat, 20 Jun 2020 09:38:15 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '4417659b-b659-5538-a836-32fc6d1274fc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '4417659b-b659-5538-a836-32fc6d1274fc', 'date': 'Sat, 20 Jun 2020 09:38:21 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '251e414c-09b7-5315-8bc3-162bd2e6248b', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '251e414c-09b7-5315-8bc3-162bd2e6248b', 'date': 'Sat, 20 Jun 2020 09:38:27 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ccadcf06-fd9d-5ad9-a63c-986126cbe84e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ccadcf06-fd9d-5ad9-a63c-986126cbe84e', 'date': 'Sat, 20 Jun 2020 09:38:32 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'c660eee1-82e5-5301-a058-b98659be80a6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'c660eee1-82e5-5301-a058-b98659be80a6', 'date': 'Sat, 20 Jun 2020 09:38:37 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '0da90381-c073-5583-9ff3-54e61b12e878', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '0da90381-c073-5583-9ff3-54e61b12e878', 'date': 'Sat, 20 Jun 2020 09:38:43 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '0055ebc2-1292-51fe-b82e-bca5c9f44660', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '0055ebc2-1292-51fe-b82e-bca5c9f44660', 'date': 'Sat, 20 Jun 2020 09:38:48 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'd71b7a75-b3d8-59af-9969-2d1268b3eb96', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'd71b7a75-b3d8-59af-9969-2d1268b3eb96', 'date': 'Sat, 20 Jun 2020 09:38:53 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '419927a2-fb5c-5b6b-8678-70c5202cfa10', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '419927a2-fb5c-5b6b-8678-70c5202cfa10', 'date': 'Sat, 20 Jun 2020 09:38:58 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'afe272a8-5107-5286-9fed-25cf8a714944', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'afe272a8-5107-5286-9fed-25cf8a714944', 'date': 'Sat, 20 Jun 2020 09:39:04 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '28a7f00d-ec1f-5e96-a538-a76a37648b8a', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '28a7f00d-ec1f-5e96-a538-a76a37648b8a', 'date': 'Sat, 20 Jun 2020 09:39:09 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'cca61a75-2be2-5f13-949e-4d12f06256c9', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'cca61a75-2be2-5f13-949e-4d12f06256c9', 'date': 'Sat, 20 Jun 2020 09:39:14 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'a2698b27-96ee-5606-9946-dc404d6bee46', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'a2698b27-96ee-5606-9946-dc404d6bee46', 'date': 'Sat, 20 Jun 2020 09:39:19 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'c6296571-a59e-5cd8-8d91-32167e141745', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'c6296571-a59e-5cd8-8d91-32167e141745', 'date': 'Sat, 20 Jun 2020 09:39:24 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9f802973-2611-59db-8600-7e14fd9e5a86', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9f802973-2611-59db-8600-7e14fd9e5a86', 'date': 'Sat, 20 Jun 2020 09:39:29 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'f408de81-55b1-559d-96c4-89e68e24e6e2', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'f408de81-55b1-559d-96c4-89e68e24e6e2', 'date': 'Sat, 20 Jun 2020 09:39:35 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '38c9dad9-0786-5c56-a05a-8dbedc1c8dae', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '38c9dad9-0786-5c56-a05a-8dbedc1c8dae', 'date': 'Sat, 20 Jun 2020 09:39:40 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'a85eccd4-d7bb-546b-a1b4-9bb30c24ee34', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'a85eccd4-d7bb-546b-a1b4-9bb30c24ee34', 'date': 'Sat, 20 Jun 2020 09:39:45 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'c39a0af9-6054-5499-b0fd-5d9ebbf0dd87', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'c39a0af9-6054-5499-b0fd-5d9ebbf0dd87', 'date': 'Sat, 20 Jun 2020 09:39:50 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'dfc2d859-4b8c-5052-8479-8f3e9025e66a', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'dfc2d859-4b8c-5052-8479-8f3e9025e66a', 'date': 'Sat, 20 Jun 2020 09:39:55 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'fa17636b-548c-511b-a768-340c8f22a94c', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'fa17636b-548c-511b-a768-340c8f22a94c', 'date': 'Sat, 20 Jun 2020 09:40:00 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '0062dd71-3331-5971-9c6d-8a16e882bc0b', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '0062dd71-3331-5971-9c6d-8a16e882bc0b', 'date': 'Sat, 20 Jun 2020 09:40:05 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '37f642e8-aaed-5702-a7f9-158f71549561', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '37f642e8-aaed-5702-a7f9-158f71549561', 'date': 'Sat, 20 Jun 2020 09:40:11 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'c00a9497-2e34-5476-af23-c3f0f58a670b', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'c00a9497-2e34-5476-af23-c3f0f58a670b', 'date': 'Sat, 20 Jun 2020 09:40:16 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'b004c4c0-e326-57d6-8ebb-93a738e5204d', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'b004c4c0-e326-57d6-8ebb-93a738e5204d', 'date': 'Sat, 20 Jun 2020 09:40:21 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'b6227f66-5ba6-5635-930c-2801806eadcc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'b6227f66-5ba6-5635-930c-2801806eadcc', 'date': 'Sat, 20 Jun 2020 09:40:26 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '59ebc70b-18f5-53ee-a0db-906cc3383df6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '59ebc70b-18f5-53ee-a0db-906cc3383df6', 'date': 'Sat, 20 Jun 2020 09:40:31 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ceae6ba4-951f-594f-a30e-3cc34ecdee4e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ceae6ba4-951f-594f-a30e-3cc34ecdee4e', 'date': 'Sat, 20 Jun 2020 09:40:36 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'f0f8c292-ee38-511b-9dd4-95f535ef2ba6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'f0f8c292-ee38-511b-9dd4-95f535ef2ba6', 'date': 'Sat, 20 Jun 2020 09:40:41 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'f2ed0c3b-09d2-5157-81c7-5b5cd20f15b7', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'f2ed0c3b-09d2-5157-81c7-5b5cd20f15b7', 'date': 'Sat, 20 Jun 2020 09:40:47 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '3f81748d-653d-5993-8f91-23eabedf9ac8', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '3f81748d-653d-5993-8f91-23eabedf9ac8', 'date': 'Sat, 20 Jun 2020 09:40:52 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '996d7bc1-fcb6-5afe-8af9-2ca6275194fd', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '996d7bc1-fcb6-5afe-8af9-2ca6275194fd', 'date': 'Sat, 20 Jun 2020 09:40:57 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'db98961a-e59d-5d3b-8059-c17d3e708827', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'db98961a-e59d-5d3b-8059-c17d3e708827', 'date': 'Sat, 20 Jun 2020 09:41:03 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '1f42cd7a-b6f7-53aa-adc2-9a1d6d050a09', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '1f42cd7a-b6f7-53aa-adc2-9a1d6d050a09', 'date': 'Sat, 20 Jun 2020 09:41:08 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '36dc7300-f83e-5f9a-9483-246723c9a4a7', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '36dc7300-f83e-5f9a-9483-246723c9a4a7', 'date': 'Sat, 20 Jun 2020 09:41:13 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ba0135d8-dc9b-56ff-8442-62bf0760c1a0', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ba0135d8-dc9b-56ff-8442-62bf0760c1a0', 'date': 'Sat, 20 Jun 2020 09:41:17 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '67b85a31-96b7-5780-97e7-0d564ab65a3a', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '67b85a31-96b7-5780-97e7-0d564ab65a3a', 'date': 'Sat, 20 Jun 2020 09:41:23 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'e3d1900d-d686-58cd-b6d0-c76a0a81b957', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'e3d1900d-d686-58cd-b6d0-c76a0a81b957', 'date': 'Sat, 20 Jun 2020 09:41:29 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'bebdef1e-b146-59ff-8307-b8796d4a0699', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'bebdef1e-b146-59ff-8307-b8796d4a0699', 'date': 'Sat, 20 Jun 2020 09:41:34 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '30df2520-c745-52f5-9c06-72471b5702cc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '30df2520-c745-52f5-9c06-72471b5702cc', 'date': 'Sat, 20 Jun 2020 09:41:40 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '0af77b09-4b0f-57f8-aa27-2c6e971895b9', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '0af77b09-4b0f-57f8-aa27-2c6e971895b9', 'date': 'Sat, 20 Jun 2020 09:41:45 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '6bc583bc-48ff-55f1-a7df-d4db94e3cbe9', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '6bc583bc-48ff-55f1-a7df-d4db94e3cbe9', 'date': 'Sat, 20 Jun 2020 09:41:50 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '61b8f36d-f687-56b1-b592-a40a2aa58f6d', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '61b8f36d-f687-56b1-b592-a40a2aa58f6d', 'date': 'Sat, 20 Jun 2020 09:41:56 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9ee89168-d66d-521a-ad69-c60f0a4ad786', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9ee89168-d66d-521a-ad69-c60f0a4ad786', 'date': 'Sat, 20 Jun 2020 09:42:01 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '127af460-e369-5e4b-8e64-a3073f452a28', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '127af460-e369-5e4b-8e64-a3073f452a28', 'date': 'Sat, 20 Jun 2020 09:42:06 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9cf3b323-3244-5143-b645-e444ee74981e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9cf3b323-3244-5143-b645-e444ee74981e', 'date': 'Sat, 20 Jun 2020 09:42:10 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '3518f83d-8fb0-515a-8bbc-af5a5385efa4', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '3518f83d-8fb0-515a-8bbc-af5a5385efa4', 'date': 'Sat, 20 Jun 2020 09:42:15 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'a7acea96-919e-53c7-a56b-bdf14da4bec6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'a7acea96-919e-53c7-a56b-bdf14da4bec6', 'date': 'Sat, 20 Jun 2020 09:42:20 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'f2a96788-b103-5593-9101-30ef6d3c9c28', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'f2a96788-b103-5593-9101-30ef6d3c9c28', 'date': 'Sat, 20 Jun 2020 09:42:25 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '5738eabb-a1c3-5925-816a-bddc7d870424', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '5738eabb-a1c3-5925-816a-bddc7d870424', 'date': 'Sat, 20 Jun 2020 09:42:30 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'a74e9331-22ed-59f9-99c6-c456fea490d8', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'a74e9331-22ed-59f9-99c6-c456fea490d8', 'date': 'Sat, 20 Jun 2020 09:42:35 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '232b8eda-335a-541c-9fe8-d9bdef148d43', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '232b8eda-335a-541c-9fe8-d9bdef148d43', 'date': 'Sat, 20 Jun 2020 09:42:40 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '6e3fb2ea-169b-541b-86e3-e58dcac80bc7', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '6e3fb2ea-169b-541b-86e3-e58dcac80bc7', 'date': 'Sat, 20 Jun 2020 09:42:45 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'fdba53bc-9b7e-5db1-b1db-04db47260771', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'fdba53bc-9b7e-5db1-b1db-04db47260771', 'date': 'Sat, 20 Jun 2020 09:42:50 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '43f9fe33-6320-5815-93be-a954bf7d6e31', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '43f9fe33-6320-5815-93be-a954bf7d6e31', 'date': 'Sat, 20 Jun 2020 09:42:55 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'e6694de0-0dac-50c7-bbdb-1a87d1cf9b02', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'e6694de0-0dac-50c7-bbdb-1a87d1cf9b02', 'date': 'Sat, 20 Jun 2020 09:43:01 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '3285b328-4467-54bc-947b-e44f980f4298', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '3285b328-4467-54bc-947b-e44f980f4298', 'date': 'Sat, 20 Jun 2020 09:43:06 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'a9640faa-fa85-56ee-a1b8-58cd26e8b0ec', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'a9640faa-fa85-56ee-a1b8-58cd26e8b0ec', 'date': 'Sat, 20 Jun 2020 09:43:11 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'dc6d82e2-f273-5cf9-97ab-d5852e016f03', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'dc6d82e2-f273-5cf9-97ab-d5852e016f03', 'date': 'Sat, 20 Jun 2020 09:43:16 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '221cf250-3a01-554b-ad14-a537e676cb89', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '221cf250-3a01-554b-ad14-a537e676cb89', 'date': 'Sat, 20 Jun 2020 09:43:21 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '91f4f9e8-f883-5386-8a41-ae8f24ff5bdc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '91f4f9e8-f883-5386-8a41-ae8f24ff5bdc', 'date': 'Sat, 20 Jun 2020 09:43:26 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '86eb623c-9d6c-59d0-a769-355b41ed0d4f', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '86eb623c-9d6c-59d0-a769-355b41ed0d4f', 'date': 'Sat, 20 Jun 2020 09:43:31 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '2ba6065d-dee1-5336-a6b5-513a0266050d', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '2ba6065d-dee1-5336-a6b5-513a0266050d', 'date': 'Sat, 20 Jun 2020 09:43:37 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '58dcb55e-2835-583e-b842-e239f4b934a6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '58dcb55e-2835-583e-b842-e239f4b934a6', 'date': 'Sat, 20 Jun 2020 09:43:42 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ba04bc98-7bed-5561-8dbb-ebffa77c4b23', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ba04bc98-7bed-5561-8dbb-ebffa77c4b23', 'date': 'Sat, 20 Jun 2020 09:43:47 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'f86dcdae-f03d-581b-87bd-9ac92cab6924', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'f86dcdae-f03d-581b-87bd-9ac92cab6924', 'date': 'Sat, 20 Jun 2020 09:43:52 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ba6773b4-76b0-5f73-a064-24d3aa2cc913', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ba6773b4-76b0-5f73-a064-24d3aa2cc913', 'date': 'Sat, 20 Jun 2020 09:43:58 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '2d1bf11e-dc92-5f16-bebe-a6790033d6ad', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '2d1bf11e-dc92-5f16-bebe-a6790033d6ad', 'date': 'Sat, 20 Jun 2020 09:44:03 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ba39d192-8d64-539b-b0ee-86f551c21980', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ba39d192-8d64-539b-b0ee-86f551c21980', 'date': 'Sat, 20 Jun 2020 09:44:08 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '4c2a56bc-dab9-51ed-9783-01db061209cc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '4c2a56bc-dab9-51ed-9783-01db061209cc', 'date': 'Sat, 20 Jun 2020 09:44:13 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '61b01caa-6b1f-51af-87b7-4bcdb7ae79d2', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '61b01caa-6b1f-51af-87b7-4bcdb7ae79d2', 'date': 'Sat, 20 Jun 2020 09:44:19 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9d0691d6-6ee2-5505-8bdb-c6b1b254ead8', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9d0691d6-6ee2-5505-8bdb-c6b1b254ead8', 'date': 'Sat, 20 Jun 2020 09:44:24 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '93bd8b4d-012c-5181-81a7-dc2add902c63', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '93bd8b4d-012c-5181-81a7-dc2add902c63', 'date': 'Sat, 20 Jun 2020 09:44:30 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '0b355283-6203-5a0f-b831-05e4bec28272', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '0b355283-6203-5a0f-b831-05e4bec28272', 'date': 'Sat, 20 Jun 2020 09:44:35 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '3d6d6e8d-f93a-55fe-95a1-39ea25fc38fc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '3d6d6e8d-f93a-55fe-95a1-39ea25fc38fc', 'date': 'Sat, 20 Jun 2020 09:44:40 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '52c5dd45-bfe1-5839-a4e6-8a22632a23c4', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '52c5dd45-bfe1-5839-a4e6-8a22632a23c4', 'date': 'Sat, 20 Jun 2020 09:44:45 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '51e545cb-a5e0-5eb8-af3a-12ac79301086', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '51e545cb-a5e0-5eb8-af3a-12ac79301086', 'date': 'Sat, 20 Jun 2020 09:44:50 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '5b3dabda-075a-58be-ab5c-fcbddb8f197e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '5b3dabda-075a-58be-ab5c-fcbddb8f197e', 'date': 'Sat, 20 Jun 2020 09:44:55 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '1b8ad03b-c47d-57bb-942d-875c18a7c6bf', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '1b8ad03b-c47d-57bb-942d-875c18a7c6bf', 'date': 'Sat, 20 Jun 2020 09:45:00 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '2019d121-3f0a-58a9-a027-8646e3d5e653', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '2019d121-3f0a-58a9-a027-8646e3d5e653', 'date': 'Sat, 20 Jun 2020 09:45:05 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'c2ad92b0-0463-5a04-89b4-c5d7d887d6df', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'c2ad92b0-0463-5a04-89b4-c5d7d887d6df', 'date': 'Sat, 20 Jun 2020 09:45:10 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '449a321e-d648-5d98-8928-65790aa22d61', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '449a321e-d648-5d98-8928-65790aa22d61', 'date': 'Sat, 20 Jun 2020 09:45:16 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'Messages': [{'MessageId': 'b94ef561-c22f-420d-a265-914ccc06e996', 'ReceiptHandle': 'AQEBiQp/bgzSSdAERWeQBwVmmNYUa8FUxHe4b+vLhhghVcHxK8rlpIeQAwyrL411JOS+h+hQoVbct0IFT393ExYyzJdRNj/RMseqcXSSVN2Jhg7QTMFB3RqLj6bF/n9c/AotzKx6OEoiv8O+XsWI/mn3obGWsoeY8hupcbt+8D3uGzNxpm83M1DdY8RysQMQIdQNdzcHTNBININWEwL8MHUAocOZxrcUAaobBCG8Cx/ezvsBiGGVF0/0+YB/1jll1MbR2ZG5mYEX+PllUeIocuocfmMhy1fB0a5ckjDnCL+H/yLcfHUS1Ynm9EhvnraDYl6h12328mU8hWoGUNAnlxaOWtMF93O6pGBLOypZsxITeGP2iQXG2bvCEujK4g9LgGqI', 'MD5OfBody': '69ec1e2291cd24937255166c75c730ac', 'Body': 'https://www.indeed.com/viewjob?jk=65a02dd0d86657b5&tk=1eb6s651a1tco000&from=serp&vjs=3', 'Attributes': {'SentTimestamp': '1592646318494'}, 'MD5OfMessageAttributes': '35b4ba713625d665334faf90b0552520', 'MessageAttributes': {'Mode': {'StringValue': 'glassdoor', 'DataType': 'String'}}}], 'ResponseMetadata': {'RequestId': '4c038ead-cc29-564f-9086-d9ca10c65f6e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '4c038ead-cc29-564f-9086-d9ca10c65f6e', 'date': 'Sat, 20 Jun 2020 09:45:19 GMT', 'content-type': 'text/xml', 'content-length': '1215'}, 'RetryAttempts': 0}}
+glassdoor https://www.indeed.com/viewjob?jk=65a02dd0d86657b5&tk=1eb6s651a1tco000&from=serp&vjs=3
+Received and deleted message: {'MessageId': 'b94ef561-c22f-420d-a265-914ccc06e996', 'ReceiptHandle': 'AQEBiQp/bgzSSdAERWeQBwVmmNYUa8FUxHe4b+vLhhghVcHxK8rlpIeQAwyrL411JOS+h+hQoVbct0IFT393ExYyzJdRNj/RMseqcXSSVN2Jhg7QTMFB3RqLj6bF/n9c/AotzKx6OEoiv8O+XsWI/mn3obGWsoeY8hupcbt+8D3uGzNxpm83M1DdY8RysQMQIdQNdzcHTNBININWEwL8MHUAocOZxrcUAaobBCG8Cx/ezvsBiGGVF0/0+YB/1jll1MbR2ZG5mYEX+PllUeIocuocfmMhy1fB0a5ckjDnCL+H/yLcfHUS1Ynm9EhvnraDYl6h12328mU8hWoGUNAnlxaOWtMF93O6pGBLOypZsxITeGP2iQXG2bvCEujK4g9LgGqI', 'MD5OfBody': '69ec1e2291cd24937255166c75c730ac', 'Body': 'https://www.indeed.com/viewjob?jk=65a02dd0d86657b5&tk=1eb6s651a1tco000&from=serp&vjs=3', 'Attributes': {'SentTimestamp': '1592646318494'}, 'MD5OfMessageAttributes': '35b4ba713625d665334faf90b0552520', 'MessageAttributes': {'Mode': {'StringValue': 'glassdoor', 'DataType': 'String'}}}
+indeed
+here
+69ec1e2291cd24937255166c75c730ac.json
+{'title': 'GMHEC Current Job Openings', 'company_name': "Saint Michael's College", 'location': 'None', 'job_description': "About Saint Michael's College:\nPlease click on the Apply Now button to view the current GMHEC openings.\n\nJob Description:\nThe Green Mountain Higher Education Consortium (GMHEC) provides an exciting opportunity as they strive to:\nProvide high quality service and programs to our member institutions\nHave a strong team spirit with an entrepreneurial perspective\nDeliver innovative, practical solutions\nSeize opportunities which are in the best interest of our members\nLeverage our experience and recognize strong performance\nOffer unique career and learning opportunities\nPromote overall professional and personal wellbeing\nPlease click on the Apply Now button to view the current GMHEC openings.\n\nRequirements:\nStrives for employees who:\nSeek excellence in all that they do\nAre deeply committed to adding value to our member organizations\nAre innovative and continuously challenge themselves to learn and grow\nExhibit tenacity and flexibility to serve our members\nLove what they do and are committed to fostering team strength\nPlease click on the Apply Now button to view the current GMHEC openings.\n\nAdditional Information:\nThe Consortium provides excellent benefits:\nMedical Insurance with prescription coverage\nWell-being offerings\nDental Insurance\nVision Insurance\nLife Insurance\nAccidental Death and Dismemberment Insurance\nShort-Term Disability Insurance\nLong-Term Disability Insurance\nEmployee & Family Assistance Plan\nHealth Savings Account\nDependent Flexible Spending Account\nHealth Flexible Spending Account\nRetirement\nHealth Club membership\nAnd of course Paid Time Off\nPlease click on the Apply Now button to view the current GMHEC openings.\n\nURL: gmhec.org/careers", 'empId': '69ec1e2291cd24937255166c75c730ac'}
+69ec1e2291cd24937255166c75c730ac.json
+<scrape.Scraper object at 0x10ca632d0>
+{'ResponseMetadata': {'RequestId': '2edc6080-89e3-5cff-947b-37e755195542', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '2edc6080-89e3-5cff-947b-37e755195542', 'date': 'Sat, 20 Jun 2020 09:45:32 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '71a8f3c5-cd46-5b8f-87c0-a4a21046d4af', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '71a8f3c5-cd46-5b8f-87c0-a4a21046d4af', 'date': 'Sat, 20 Jun 2020 09:45:38 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'ab04c7e8-d497-59aa-8646-908f0992b3b1', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ab04c7e8-d497-59aa-8646-908f0992b3b1', 'date': 'Sat, 20 Jun 2020 09:45:43 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9ca003f2-3b87-52c3-8805-5495e68da5ea', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9ca003f2-3b87-52c3-8805-5495e68da5ea', 'date': 'Sat, 20 Jun 2020 09:45:48 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9df3a486-d401-56f6-b160-f3e10911d68e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9df3a486-d401-56f6-b160-f3e10911d68e', 'date': 'Sat, 20 Jun 2020 09:45:54 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '9bd8cab3-1859-59ad-8f7c-9dd4c54c7f2f', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '9bd8cab3-1859-59ad-8f7c-9dd4c54c7f2f', 'date': 'Sat, 20 Jun 2020 09:45:59 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '643847bd-5929-593e-883c-10da843358d8', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '643847bd-5929-593e-883c-10da843358d8', 'date': 'Sat, 20 Jun 2020 09:46:04 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'c77e2fd5-b6ee-558f-94ec-78b26bceabd6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'c77e2fd5-b6ee-558f-94ec-78b26bceabd6', 'date': 'Sat, 20 Jun 2020 09:46:10 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'eb3bb82a-1370-56ca-a749-ef4dce55f156', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'eb3bb82a-1370-56ca-a749-ef4dce55f156', 'date': 'Sat, 20 Jun 2020 09:46:15 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '7b1daa82-266c-575e-8ab0-fde5fb463283', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '7b1daa82-266c-575e-8ab0-fde5fb463283', 'date': 'Sat, 20 Jun 2020 09:46:20 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '510fb9e4-e5be-5615-b9a9-ee8338913715', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '510fb9e4-e5be-5615-b9a9-ee8338913715', 'date': 'Sat, 20 Jun 2020 09:46:25 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '45b3b663-f5ff-52b0-ba00-e10428cbcece', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '45b3b663-f5ff-52b0-ba00-e10428cbcece', 'date': 'Sat, 20 Jun 2020 09:46:31 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'bc18716f-52f9-54a4-92cc-26088fc3e55e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'bc18716f-52f9-54a4-92cc-26088fc3e55e', 'date': 'Sat, 20 Jun 2020 09:46:36 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '218f862e-c752-5f3e-945d-d1491a6df941', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '218f862e-c752-5f3e-945d-d1491a6df941', 'date': 'Sat, 20 Jun 2020 09:46:41 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '0e0179c7-dd98-54b3-84ff-2ea000dc31af', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '0e0179c7-dd98-54b3-84ff-2ea000dc31af', 'date': 'Sat, 20 Jun 2020 09:46:46 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': '692f217c-57d8-51d6-9f34-761b8a91c634', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '692f217c-57d8-51d6-9f34-761b8a91c634', 'date': 'Sat, 20 Jun 2020 09:46:51 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
+{'ResponseMetadata': {'RequestId': 'a66b4805-6a04-5fa7-81b8-1f62b74b3142', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'a66b4805-6a04-5fa7-81b8-1f62b74b3142', 'date': 'Sat, 20 Jun 2020 09:46:57 GMT', 'content-type': 'text/xml', 'content-length': '240'}, 'RetryAttempts': 0}}
+Traceback (most recent call last):
+  File "/Users/divya/script/receive_sqs.py", line 25, in <module>
+    message = response['Messages'][0]
+KeyError: 'Messages'
